@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="flex justify-between items-center px-8 py-4 bg-white shadow">
+      <nav className="flex justify-between items-center px-8 py-4 bg-blue-100 shadow relative z-20">
       <h1 className="text-xl font-bold text-blue-600">
         AI Civic Sentinel
       </h1>
