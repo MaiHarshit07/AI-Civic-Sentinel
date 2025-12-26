@@ -20,8 +20,8 @@ export default function Home() {
               AI-Powered <br /> Civic Issue Reporting
             </h2>
             <p className="text-blue-800 mb-6 font-bold">Upload a photo, let AI handle the rest.</p>
-            <Link href="/report" className="bg-blue-600 text-white px-6 py-3 rounded-xl">
-              Report an Issue
+            <Link href="/reports" className="bg-blue-600 text-white px-6 py-3 rounded-xl">
+              Reported Issues
             </Link>
           </div>
 
